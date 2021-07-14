@@ -9,6 +9,7 @@
 ![image](https://user-images.githubusercontent.com/71078707/125554975-abd514f6-ebd6-427a-b1a1-95722d2604cc.png)
 - 시각화 데이터 : 서울시 최초 코로나 감염자 발생일로 부터 2020.11.30까지의 데이터
 - 회귀분석 : 11.30 데이터와 12.14까지의 데이터 사용.
+- 위치정보 시각화 데이터 : data_draw_korea.csv
 
 
 ### 사용환경
